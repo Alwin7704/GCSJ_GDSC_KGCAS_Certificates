@@ -7,7 +7,7 @@ both docx and pdf.
 ## Run these 4 commands in your terminal
 
 ```
-git clone https://github.com/Sabyasachi-Seal/GCP-Certificate
+git clone https://github.com/Alwin7704/GCSJ_GDSC_KGCAS_Certificates.git
 cd GCSJ_GDSC_KGCAS_Certificates
 ```
 Now Copy your progress report to the Data Folder and rename it as `ParticipantList.csv`

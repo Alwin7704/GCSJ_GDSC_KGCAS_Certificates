@@ -1,4 +1,4 @@
-# Google Cloud Event Certificate Generator
+# Google Cloud Event Certificate Generator By GDSC Lead - Alwin Glifferd D
 
 This repo simply use a template certificate docx file and generates certificates
 both docx and pdf.
@@ -8,7 +8,7 @@ both docx and pdf.
 
 ```
 git clone https://github.com/Sabyasachi-Seal/GCP-Certificate
-cd GCP-Certificate
+cd GCSJ_GDSC_KGCAS_Certificates
 ```
 Now Copy your progress report to the Data Folder and rename it as `ParticipantList.csv`
 ```
